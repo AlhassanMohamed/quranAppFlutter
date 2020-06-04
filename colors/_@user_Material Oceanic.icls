@@ -4,7 +4,7 @@
     <property name="created">2019-12-24T18:31:48</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-05-28T14:25:40</property>
+    <property name="modified">2020-06-04T17:41:47</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1072,13 +1072,13 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_LABEL" baseAttributes="" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1100,7 +1100,7 @@
         <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
